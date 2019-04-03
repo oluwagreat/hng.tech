@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e10813f7-60b5-4f37-a86b-ff173550454e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/interns/mercyikpe.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/current.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/current.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/interns/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/interns/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/interns/mercyikpe.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/interns/mercyikpe.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,18 +19,49 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/interns/mercyikpe.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2356">
-              <caret line="124" lean-forward="true" selection-start-line="124" selection-end-line="124" />
+            <state relative-caret-position="246">
+              <caret line="98" column="10" lean-forward="true" selection-start-line="98" selection-start-column="10" selection-end-line="98" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/interns/index.php">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="133" selection-start-line="133" selection-end-line="133" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="40" column="29" lean-forward="true" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/current.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/interns.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2116">
+              <caret line="14" column="52" lean-forward="true" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -40,7 +73,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/views/interns/index.php" />
+        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/views/interns/mercyikpe.php" />
+        <option value="$PROJECT_DIR$/views/current.php" />
       </list>
     </option>
   </component>
@@ -54,10 +89,10 @@
       <path value="$PROJECT_DIR$/vendor/stripe/stripe-php" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
     <option name="x" value="82" />
-    <option name="y" value="84" />
-    <option name="width" value="1175" />
+    <option name="y" value="23" />
+    <option name="width" value="1565" />
     <option name="height" value="1027" />
   </component>
   <component name="ProjectView">
@@ -72,17 +107,6 @@
             <path>
               <item name="hng.tech" type="b2602c69:ProjectViewProjectNode" />
               <item name="hng.tech" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hng.tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hng.tech" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hng.tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hng.tech" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="interns" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -120,25 +144,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554275562765</updated>
-      <workItem from="1554275564174" duration="1534000" />
+      <workItem from="1554275564174" duration="3913000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1534000" />
+    <option name="totallyTimeSpent" value="3913000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="82" y="23" width="1565" height="1027" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Gulp" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17277168" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18581747" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.34545454" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -158,12 +183,37 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/views/interns/index.php">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="133" selection-start-line="133" selection-end-line="133" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/interns.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2116">
+          <caret line="14" column="52" lean-forward="true" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/interns/mercyikpe.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2356">
-          <caret line="124" lean-forward="true" selection-start-line="124" selection-end-line="124" />
+        <state relative-caret-position="246">
+          <caret line="98" column="10" lean-forward="true" selection-start-line="98" selection-start-column="10" selection-end-line="98" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/current.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="40" column="29" lean-forward="true" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
         </state>
       </provider>
     </entry>
