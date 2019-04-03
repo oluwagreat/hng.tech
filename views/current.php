@@ -14,12 +14,12 @@
      			<div class="col-md-3 col-sm-6 col-xs-12">
      				<div class="intern-block border-blue">
      					<img src="../app/img/about-talent.png" alt="">
-     					  <h6>Mark Essien</h6>
-                 <p>Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+     					  <h6>Mercy Ikpe</h6>
+                 <p>Frontend Web Developer</p>
                  <ul class="list">
-                 <li><a href="#" target="_blank"<i class="fab fa-twitter"></i></a></li>
-                 <li><a href="#" target="_blank"<i class="fab fa-github"></i></a></li>
-                 <li><a href="#" target="_blank"<i class="fab fa-medium"></i></a></li>
+                 <li><a href="https://twitter.com/mercyikpee" target="_blank"<i class="fab fa-twitter"></i></a></li>
+                 <li><a href="https://github.com/mercyikpe" target="_blank"<i class="fab fa-github"></i></a></li>
+                 <li><a href="https://medium.com/@mercyikpe" target="_blank"<i class="fab fa-medium"></i></a></li>
                  </ul>
      					    <a href="/interns/mercyikpe" class="btn-view">view profile</a>
      				</div>

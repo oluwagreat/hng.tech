@@ -35,7 +35,7 @@
             margin: 15px auto;
         }
         .profile-pic {
-            width: 250px;
+            width: 200px;
             height: 250px;
             border-radius: 50%;
         }
